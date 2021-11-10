@@ -1,15 +1,15 @@
 # CMS-BlogSite
 A site where developers can publish their blog posts and comment on other developers’ posts as well. 
 
-# Motivation for this project
+# Motivation for this Post
 
 Learn to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. Have the app follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
-# Reason for this project 
+# Reason for this Post 
 
 Build a site from scratch that is similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well and deploy it to Heroku.
 
-# What I learned from this project 
+# What I learned from this Post 
 
 In this activity I learnt:
 
